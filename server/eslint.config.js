@@ -4,6 +4,7 @@ export default [
     rules: {
       semi: 'error', //force semicolons
       'no-unused-vars': 'warn', //warn if variables are unused
+      //comment added
     },
   },
 ];
